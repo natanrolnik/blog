@@ -14,7 +14,7 @@ header:
   og_image: /assets/og-images/SwiftToolkit.png
 ---
 
-I'm thrilled to announce that during the the past few months, I've been working on a new website: [SwiftToolkit.dev](https://SwiftToolkit.dev). The goal is to share tutorials, guides, cheatsheets and other resources that can be helpful in the tooling, developer experience, and server side Swift domain.
+I'm thrilled to announce that during the the past few months, I've been working on a new website: [SwiftToolkit.dev](https://SwiftToolkit.dev). The goal is to share tutorials, guides, cheatsheets and other resources that can be helpful in the tooling, developer experience, and server side Swift domains.
 
 Although there were some unexpected bumps along the way - a devastating ongoing war since October 7th and the loss of a close family member - I finally published the first posts, and here are some of them:
 
@@ -23,3 +23,5 @@ Although there were some unexpected bumps along the way - a devastating ongoing 
 * [The Interactive Swift Argument Parser Guide](https://swifttoolkit.dev/posts/argument-parser-guide): one of my favorite packages, the Swift Argument Parser helps creating command line tools in Swift. This post contains an interactive terminal simulator that shows the result of the sample code blocks!
 
 I'm looking forward to create more content, contribute to the Swift community, and help empowering other developers learn new areas. 
+
+{% include image.html name="SwiftToolkit.png" %}
